@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://203.86.8.92:8042/LEAP/Download/default/2016/1/6/631d62b9bf274c09a652d069321277cc/_v3_/Convenient_Traffic.ipa</string>
+                        <string>http://192.168.4.224:88/LCIP/LEAP/Download/default/2016/1/20/87964589b5454e168e7b12489d3bde 9e/_v3_/KCKPLeader.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://203.86.8.92:8042/LEAP/KCKP/Web/bjkckp/img/ctlogo.png</string>
+                        <string>http://192.168.4.224:88/LCIP/LEAP/LCIPModule/LCIP/Web/Home/img/appdownlogo.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,13 +27,13 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://203.86.8.92:8042/LEAP/KCKP/Web/bjkckp/img/ctlogo.png</string>
+                        <string>http://192.168.4.224:88/LCIP/LEAP/LCIPModule/LCIP/Web/Home/img/appdownlogo.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.longrise.CZTIOSLongrise</string>
+                    <string>com.longrise.JSFXLeader</string>
                     <key>bundle-version</key>
                     <string>1.01</string>
                     <key>kind</key>
